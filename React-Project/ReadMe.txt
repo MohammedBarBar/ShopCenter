@@ -12,9 +12,6 @@ And finally At react Project
 4)npm start
 enjoy ...
 
-Note : There was a fire Base link but it destroys and i have an issue in build the project again so i am sorry i have no firebase sever.
-we take firebase in angular but not in react there are some diffrence between them because of that it was hard to make it myself.
-
 Admin filed:
 email: admin.madrid@mail.com
 pass: admin
