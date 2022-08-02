@@ -1,2 +1,3 @@
 # ShopCenter
-This Project build using React,Redux,PHP
+This Project build using React,Redux,PHP & MySQL
+
